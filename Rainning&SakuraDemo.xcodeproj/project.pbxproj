@@ -18,6 +18,8 @@
 		C485A1831D4F8CAD00FE5CC5 /* rainning.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C485A1821D4F8CAD00FE5CC5 /* rainning.jpeg */; };
 		DAD7D9A21E948D2E00D21595 /* img1.png in Resources */ = {isa = PBXBuildFile; fileRef = DAD7D9A01E948D2E00D21595 /* img1.png */; };
 		DAD7D9A51E94B8C200D21595 /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DAD7D9A41E94B8C200D21595 /* img2.jpg */; };
+		DAD7D9A81E94C21700D21595 /* rain.gif in Resources */ = {isa = PBXBuildFile; fileRef = DAD7D9A61E94C21700D21595 /* rain.gif */; };
+		DAD7D9A91E94C21700D21595 /* sakura.gif in Resources */ = {isa = PBXBuildFile; fileRef = DAD7D9A71E94C21700D21595 /* sakura.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		C485A1821D4F8CAD00FE5CC5 /* rainning.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainning.jpeg; sourceTree = "<group>"; };
 		DAD7D9A01E948D2E00D21595 /* img1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img1.png; sourceTree = "<group>"; };
 		DAD7D9A41E94B8C200D21595 /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img2.jpg; sourceTree = "<group>"; };
+		DAD7D9A61E94C21700D21595 /* rain.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rain.gif; sourceTree = "<group>"; };
+		DAD7D9A71E94C21700D21595 /* sakura.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sakura.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 		C485A1601D4F882100FE5CC5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DAD7D9A61E94C21700D21595 /* rain.gif */,
+				DAD7D9A71E94C21700D21595 /* sakura.gif */,
 				C485A1611D4F882100FE5CC5 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -167,7 +173,9 @@
 				C485A1701D4F882100FE5CC5 /* LaunchScreen.storyboard in Resources */,
 				C485A16D1D4F882100FE5CC5 /* Assets.xcassets in Resources */,
 				C485A16B1D4F882100FE5CC5 /* Main.storyboard in Resources */,
+				DAD7D9A91E94C21700D21595 /* sakura.gif in Resources */,
 				C485A1831D4F8CAD00FE5CC5 /* rainning.jpeg in Resources */,
+				DAD7D9A81E94C21700D21595 /* rain.gif in Resources */,
 				DAD7D9A51E94B8C200D21595 /* img2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
